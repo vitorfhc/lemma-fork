@@ -1,3 +1,7 @@
+# THIS IS A COPY OF THE ORIGINAL REPO WHICH WAS TAKEN DOWN, ALL CREDITS TO DEFPARAM https://x.com/defparam
+
+---
+
 <h1 align="center">
   <img src="images/lemma.png" alt="lemma" width="400px">
   <br>
